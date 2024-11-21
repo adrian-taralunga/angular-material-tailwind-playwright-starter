@@ -1,4 +1,4 @@
-# AngularMaterialStarter
+# Angular Material Tailwind, Jest, ngxs, Playwright Starter
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
 
