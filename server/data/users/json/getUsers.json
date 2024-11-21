@@ -1,0 +1,18 @@
+{
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Giggles McGee",
+        "email": "giggles.mcgee@gmail.com",
+        "age": 30
+      },
+      {
+        "id": 2,
+        "name": "Chuckles O'Plenty",
+        "email": "chuckles.oplenty@gmail.com",
+        "age": 27
+      }
+    ]
+  }
+}
